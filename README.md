@@ -1,2 +1,5 @@
 # python-practice
-Python practice exercises covering strings, lists, and conditions from coursework.
+This repository contains my solutions for Python exercises from the **CNG111 - Introduction to Computer Engineering Concepts** course at METU NCC.
+
+## Notes
+Personal information such as my student ID and university name has been removed for privacy.
